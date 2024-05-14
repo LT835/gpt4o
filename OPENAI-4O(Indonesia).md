@@ -1,4 +1,6 @@
-# GPT-4o
+# OPENAI-4O
+
+- OPENAI-4O：https://openai.ing
 Hari ini, dunia kecerdasan buatan telah melangkah maju dengan langkah besar dengan peluncuran model unggulan terbaru dari OpenAI - GPT-4o, menandai terobosan penting dalam aksesibilitas dan kemampuan. GPT-4o merupakan prestasi penting dalam bidang pemrosesan bahasa alami dan interaksi kecerdasan buatan, dengan tujuan memberikan tingkat kecerdasan setara dengan GPT-4 kepada pengguna di seluruh dunia secara efisien dan inovatif, termasuk pengguna gratis.
 
 # Apa itu GPT-4o?
